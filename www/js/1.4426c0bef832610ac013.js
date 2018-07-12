@@ -1,0 +1,1 @@
+webpackJsonp([1],{"iNA+":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("span",[this._v("详情页面")])},staticRenderFns:[]};var i=t("VU/8")({name:"info"},a,!1,function(e){t("igGI")},"data-v-3b05aaca",null);n.default=i.exports},igGI:function(e,n){}});
